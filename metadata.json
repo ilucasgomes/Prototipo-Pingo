@@ -1,0 +1,7 @@
+{
+  "name": "pingowallet10",
+  "description": "App financeiro pessoal offline para trabalhadores brasileiros organizarem suas finanças antes de dormir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
